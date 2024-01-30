@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/perfilId"
+        android:icon="@drawable/profile_icon"
+        android:title="@string/perfil"></item>
+
+    <item android:id="@+id/historialId"
+        android:icon="@drawable/history_icon"
+        android:title="@string/historial"></item>
+
+    <item android:id="@+id/entrenamientoId"
+        android:icon="@drawable/add_icon2"
+        android:title="@string/entreno"></item>
+
+    <item android:id="@+id/ejerciciosId"
+        android:icon="@drawable/weight_icon2"
+        android:title="@string/ejercicios"></item>
+
+    <item android:id="@+id/ajustesId"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/ajustes"></item>
+
+</menu>

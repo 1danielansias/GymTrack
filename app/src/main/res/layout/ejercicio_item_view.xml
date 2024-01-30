@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginRight="15dp"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/tvEjercicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imageView"
+        android:textColor="?attr/textFillColor"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:text="@string/nombre"/>
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/imageView"
+        android:layout_below="@id/tvEjercicio"
+        android:textColor="?attr/textFillColor"
+        android:text="@string/desc"/>
+
+    <com.google.android.material.divider.MaterialDivider
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dividerThickness="1dp"
+        android:layout_marginTop="10dp"
+        app:dividerColor="?attr/textFillColor"
+        android:layout_below="@id/imageView"/>
+
+</RelativeLayout>

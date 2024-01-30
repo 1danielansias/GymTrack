@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modo claro -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="secondaryBlue">#1B72FF</color>
+    <color name="primaryBlue">#69A2FF</color>
+    <color name="gray">#D9D9D9</color>
+
+    <!-- Modo oscuro -->
+    <color name="primaryDarkBlue">#00274C</color>
+    <color name="secondaryDarkBlue">#001A33</color>
+    <color name="darkBackgroundColor">#1E1E1E</color>
+
+</resources>

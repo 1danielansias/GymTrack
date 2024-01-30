@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227673538380",
+    "project_id": "gymtrack-f700c",
+    "storage_bucket": "gymtrack-f700c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227673538380:android:4952eb176bc1ba68cd59e9",
+        "android_client_info": {
+          "package_name": "com.example.proyectogymtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAehrpAzM70G3hox6rEMatT32ML8RPMk9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

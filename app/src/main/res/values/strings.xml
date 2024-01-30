@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">GymTrack</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="olvidaste_tu_contrasena">Olvidaste tu contraseña?</string>
+    <string name="no_tienes_una_cuenta">No tienes una cuenta?</string>
+    <string name="registrate">Regístrate</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="repita_su_contrasena">Repita su contraseña</string>
+    <string name="rellena_todos_los_campos">Rellena todos los campos para poder registrarte correctamente.</string>
+    <string name="nombre_de_la_plantilla">Nombre de la plantilla</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre">Nombre</string>
+    <string name="desc">Desc</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="seleccionar_idioma">Seleccionar idioma</string>
+    <string name="unidad_de_peso">Unidad de peso</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="pol_tica_de_privacidad">Política de privacidad</string>
+    <string name="ajustes_de_privacidad">Ajustes de privacidad</string>
+    <string name="terminos_de_servicio">Términos de servicio</string>
+    <string name="ejercicios">Ejercicios</string>
+    <string name="buscar">Buscar...</string>
+    <string name="empezar_entrenamiento">Empezar entrenamiento</string>
+    <string name="inicio_rapido">Inicio rápido</string>
+    <string name="empezar_entrenamiento_vacio">Empezar entrenamiento vacío</string>
+    <string name="mis_plantillas">Mis plantillas</string>
+    <string name="plantillas_base">Plantillas base</string>
+    <string name="historial">Historial</string>
+    <string name="perfil">Perfil</string>
+    <string name="n_mero_de_entrenamientos">Número de entrenamientos:</string>
+    <string name="editar_perfil">Editar perfil</string>
+    <string name="objetivo_opcional">Objetivo (Opcional)</string>
+    <string name="cambiar_contrasena">Cambiar Contraseña</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="entreno">Entreno</string>
+    <string name="email_y_o_contrasena_incorrecto">Email y/o contraseña incorrecto.</string>
+    <string name="email_enviado">Email enviado.</string>
+    <string name="autentificacion_fallida">Autentificación fallida.</string>
+    <string name="las_contrasenas_deben_coincidir">Las contraseñas deben coincidir.</string>
+    <string name="cuenta_creada">Cuenta creada corrrectamente. Inicie sesión en la aplicación.</string>
+    <string name="sesion_cerrada">Sesión cerrada.</string>
+    <string name="no_se_encontraron_resultados">No se encontraron resultados.</string>
+    <string name="plantillas_recuperadas">Plantillas recuperadas</string>
+    <string name="pagina_actualizada">Página actualizada</string>
+    <string name="introduce_tu_email_para_obtener_el_enlace">Introduce tu email para obtener el enlace y reestablecer la contraseña.</string>
+    <string name="reestablecer">Reestablecer</string>
+    <string name="el_campo_esta_vacio">El campo esta vacío</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="calendario">Calendario</string>
+    <string name="tema">Tema Oscuro</string>
+
+    <array name="spinner_idiomas">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Italiano</item>
+    </array>
+
+    <array name="spinner_unidades">
+        <item>Métrico (kg)</item>
+        <item>Imperial (lb)</item>
+    </array>
+
+    <string-array name="spinner_notificaciones">
+        <item>Activadas</item>
+        <item>Desactivadas</item>
+    </string-array>
+
+</resources>
